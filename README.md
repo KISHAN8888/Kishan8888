@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Natural Language Processing**
 
-- 👯 I’m looking to collaborate on [Emaoi](https://github.com/KISHAN8888/Emoai)
+- 👯 I’m looking to collaborate on [Emoai](https://github.com/KISHAN8888/Emoai)
 
 - 💬 Ask me about **R, Data Science, Supervised learning**
 
