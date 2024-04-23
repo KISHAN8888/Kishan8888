@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishan Tripathi</h1>
 <h3 align="center">On a journey to master the realms of Data Science!</h3>
 
-- 🔭 I’m currently working on [Hea](https://github.com/KISHAN8888/Hea)
+- 🔭 I’m currently working on [Echo](https://github.com/KISHAN8888/Echo)
 
 - 🌱 I’m currently learning **Deep Learning and Natural Language Processing**
 
