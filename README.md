@@ -11,7 +11,7 @@ x<h1 align="center">Hi 👋, I'm Kishan Tripathi</h1>
 
 - 📫 How to reach me **kishantripathi888@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kishan-tripathi-280a49200/?originalSubdomain=in](https://x.com/Kishannnn_)
+- 📄 Know about my experiences [@Kishannnn_](https://x.com/Kishannnn_)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
