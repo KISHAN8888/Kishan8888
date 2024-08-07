@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kishan Tripathi</h1>
+x<h1 align="center">Hi 👋, I'm Kishan Tripathi</h1>
 <h3 align="center">On a journey to master the realms of Data Science!</h3>
 
 - 🔭 I’m currently working on [Echo](https://github.com/KISHAN8888/Echo)
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kishantripathi888@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kishan-tripathi-280a49200/?originalSubdomain=in](https://www.linkedin.com/in/kishan-tripathi-280a49200/?originalSubdomain=in)
+- 📄 Know about my experiences [https://www.linkedin.com/in/kishan-tripathi-280a49200/?originalSubdomain=in](https://x.com/Kishannnn_)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
