@@ -1,13 +1,5 @@
 x<h1 align="center">Hi 👋, I'm Kishan Tripathi</h1>
-<h3 align="center">On a journey to master the realms of Data Science!</h3>
-
-- 🔭 I’m currently working on [Echo](https://github.com/KISHAN8888/Echo)
-
-- 🌱 I’m currently learning **Deep Learning and Natural Language Processing**
-
-- 👯 I’m looking to collaborate on [Emoai](https://github.com/KISHAN8888/Emoai)
-
-- 💬 Ask me about **R, Data Science, Supervised learning**
+<h3 align="center">On a journey to master the realms of AI!</h3>
 
 - 📫 How to reach me **kishantripathi888@gmail.com**
 
