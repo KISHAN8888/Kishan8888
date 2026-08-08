@@ -1,9 +1,8 @@
 x<h1 align="center">Hi 👋, I'm Kishan Tripathi</h1>
-<h3 align="center">On a journey to master the realms of AI!</h3>
 
 - 📫 How to reach me **kishantripathi888@gmail.com**
 
-- 📄 Know about my experiences [@Kishannnn_](https://x.com/Kishannnn_)
+- 📄 Know about my experiences [@Kishannnn_](https://x.com/a_random_var)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
