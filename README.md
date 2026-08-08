@@ -2,7 +2,7 @@ x<h1 align="center">Hi 👋, I'm Kishan Tripathi</h1>
 
 - 📫 How to reach me **kishantripathi888@gmail.com**
 
-- 📄 Know about my experiences [@Kishannnn_](https://x.com/a_random_var)
+- 📄 Know about my experiences [@a_random_var](https://x.com/a_random_var)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
